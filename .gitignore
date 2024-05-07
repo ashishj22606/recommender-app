@@ -1,1 +1,4 @@
-.env
+-- .env
+venv
+src/utils/__pycache__
+src/data_processing/__pycache__

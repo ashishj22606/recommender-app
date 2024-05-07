@@ -1,0 +1,4 @@
+#pyspark
+snowflake-connector-python
+cx-Oracle
+#python-dotenv
