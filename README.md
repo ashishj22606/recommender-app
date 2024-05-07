@@ -50,3 +50,11 @@
   - scripts/ (optional)
     - utility_script.py
 ```
+## To run this Project
+```
+$ docker build -t <img-name> .
+$ docker images
+$ docker run -it b1 bash
+export all env variables
+$ python3 main.py
+```

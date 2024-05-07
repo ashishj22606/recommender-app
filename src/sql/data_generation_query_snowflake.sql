@@ -1,1 +1,1 @@
-select * from port
+select top 10 * from port
