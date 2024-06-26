@@ -1,4 +1,8 @@
-#pyspark
-snowflake-connector-python
-cx-Oracle
-#python-dotenv
+pandas==1.3.5
+numpy==1.21.4
+scikit-learn==1.0.2
+gensim==4.1.2
+transformers==4.17.0
+torch==1.10.1
+matplotlib==3.5.1
+streamlit==1.3.1
